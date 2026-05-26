@@ -6,3 +6,6 @@ https://cad.onshape.com/documents/22f3425ea7c3c5baea4db72a/w/41cf12666249611bfbd
 
 BOM
 https://docs.google.com/spreadsheets/d/13JzB3kvO0vG1ZuJ61luXd1x6dMnEUsCQSgEZeQXHTig/edit?usp=sharing
+
+Calculations:
+https://docs.google.com/document/d/1093Fhib_KALhrss7tIt823cWR-YH7OZk02LRxrgmfjs/edit?usp=sharing
